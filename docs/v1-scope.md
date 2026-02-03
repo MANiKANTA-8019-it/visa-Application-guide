@@ -1,0 +1,3 @@
+- 3 countries max
+- Read-only guidance (no form submission)
+- Text-based assistant
