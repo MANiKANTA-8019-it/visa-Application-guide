@@ -1,0 +1,18 @@
+{
+  "USA": {
+    "F1": {
+      "purpose": "Study",
+      "documents": [
+        "Passport",
+        "I-20",
+        "Bank statement",
+        "SEVIS receipt"
+      ],
+      "processing_time": "2–8 weeks",
+      "common_rejections": [
+        "Insufficient funds",
+        "Weak ties to home country"
+      ]
+    }
+  }
+}
